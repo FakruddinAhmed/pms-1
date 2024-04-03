@@ -1,0 +1,29 @@
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure Pass.vbproj.AssemblyReference.cache
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure_Pass.RegistrationForm.resources
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure Pass.vbproj.GenerateResource.cache
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure Pass.GeneratedMSBuildEditorConfig.editorconfig
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure Pass.AssemblyInfoInputs.cache
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure Pass.AssemblyInfo.vb
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure Pass.vbproj.CoreCompileInputs.cache
+F:\Secure Pass\Secure Pass\bin\Debug\net8.0-windows\Secure Pass.exe
+F:\Secure Pass\Secure Pass\bin\Debug\net8.0-windows\Secure Pass.deps.json
+F:\Secure Pass\Secure Pass\bin\Debug\net8.0-windows\Secure Pass.runtimeconfig.json
+F:\Secure Pass\Secure Pass\bin\Debug\net8.0-windows\Secure Pass.dll
+F:\Secure Pass\Secure Pass\bin\Debug\net8.0-windows\Secure Pass.pdb
+F:\Secure Pass\Secure Pass\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+F:\Secure Pass\Secure Pass\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+F:\Secure Pass\Secure Pass\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Secure Pass\Secure Pass\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+F:\Secure Pass\Secure Pass\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+F:\Secure Pass\Secure Pass\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Secure Pass\Secure Pass\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure_Pass.Form1.resources
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure P.85C31BD3.Up2Date
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure Pass.dll
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\refint\Secure Pass.dll
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure Pass.pdb
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure Pass.genruntimeconfig.cache
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\ref\Secure Pass.dll
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure_Pass.MainForm.resources
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure_Pass.AddForm.resources
+F:\Secure Pass\Secure Pass\obj\Debug\net8.0-windows\Secure_Pass.EditForm.resources
